@@ -1,4 +1,3 @@
-zeitgeist-viewable
-==================
+# Viewable Behaviour (ZeitgeistModel)
 
-ZeitgeistModel's Viewable behaviour for Meteor
+Viewable Behaviour (ZeitgeistModel) for Meteor
